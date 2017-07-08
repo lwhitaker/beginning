@@ -1,0 +1,11 @@
+- git status
+- git add .
+- git init
+- git remote add origin https://github.com/alysonla/portfolio.git
+- git commit -m "first commit"
+- git push origin master/<branchname>
+- git checkout lauren (switches branch)
+- ls (list)
+- git checkout -b <branchname>
+
+ 

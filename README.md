@@ -1,2 +1,3 @@
-# beginning
-# beginning
+## beginning
+
+This is the beginning in Lauren's GitHub

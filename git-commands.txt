@@ -11,6 +11,7 @@ INITIAL COMMANDS
 - git checkout -b <branchname>
 - touch (creates a file)
 - pwd (existing path)
+- rm -R (removes directories/folders)
 
 PULL REQUESTS
 - git commit pull

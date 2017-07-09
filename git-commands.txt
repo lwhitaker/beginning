@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 INITIAL COMMANDS
 
+=======
+>>>>>>> 8a592bc3281387d612dc31c651078e86a564cefa
 - git status
 - git add .
 - git init
@@ -10,7 +13,10 @@ INITIAL COMMANDS
 - ls (list)
 - git checkout -b <branchname>
 
+<<<<<<< HEAD
 PULL REQUESTS
 - git commit pull
 
+=======
+>>>>>>> 8a592bc3281387d612dc31c651078e86a564cefa
  
